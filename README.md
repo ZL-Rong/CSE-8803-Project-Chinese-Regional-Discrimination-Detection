@@ -17,6 +17,7 @@ python run.py --model bert
 python predict.py --model bert
 
 # There will be a output.csv file containing input and output. 
+、、、
 
 
 ## Related Paper
