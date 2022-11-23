@@ -1,5 +1,5 @@
-The model we used is based on this work: https://github.com/ZL-Rong/Bert-Chinese-Text-Classification-Pytorch
-Our work focus on Bert since it outperforms other models after tested them
+The model we use is based on this work: https://github.com/ZL-Rong/Bert-Chinese-Text-Classification-Pytorch
+Our work focus on Bert model since it outperforms other models after tested them
 
 Pretrained model download link  
 bert_Chinese: pretrained model: https://s3.amazonaws.com/models.huggingface.co/bert/bert-base-chinese.tar.gz  
