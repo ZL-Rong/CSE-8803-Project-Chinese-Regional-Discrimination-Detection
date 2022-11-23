@@ -13,7 +13,7 @@ After you downloaded the pretrained model
 python run.py --model bert
 
 # predict
-# place your predict.txt file into the THUCNews/data directory
+# place your predict.txt file with a default label value either 0 or 1 into the THUCNews/data directory
 python predict.py --model bert
 
 # There will be a output.csv file containing input and output. 
