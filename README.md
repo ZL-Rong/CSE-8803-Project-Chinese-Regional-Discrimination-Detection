@@ -1,3 +1,9 @@
+# Results
+Our team creates and releases the first-ever Chinese regional discrimination dataset that includes 500,000 comments from 12,000 posts posted by 300,000 users from Weibo, and proposed a Chinese regional discrimination BERT detection model. This large-scale dataset and the model allow us to detect regional discrimination speech in Chinese and to perform a rigorous measurement study characterizing the linguistic structure of regional discrimination speech for the first time.
+
+
+
+# Procedures
 The model we use is based on this work: https://github.com/ZL-Rong/Bert-Chinese-Text-Classification-Pytorch
 Our work focus on Bert model since it outperforms other models after tested them
 
